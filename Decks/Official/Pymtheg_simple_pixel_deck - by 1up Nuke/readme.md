@@ -1,7 +1,7 @@
-# Simple pixel deck by 1 Up Nuke
+# Simple pixel deck by 1-UP Nuke
 
-This is a very simplistic pixel art deck by 1 Up Nuke.
-You can post suggesions and issues about this deck in the issue tracker as 1 up will be notified about it.
+This is a very simplistic pixel art deck by 1-UP Nuke.
+You can post suggesions and issues about this deck in the issue tracker as 1-UP will be notified about it.
 
 
 You may want to put multiple cards on one big image to see how to print it best, we'll leave that up to you.
